@@ -9,3 +9,4 @@ In order to run this program simply navigate to the directory where Blob.py is s
 ---
 Extensions 
 * I made this Readme using Markdown stylization
+* The only way to add a wiki is to make the project public or pay. As a result, I made the project public in order to add a WIKI
